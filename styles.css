@@ -80,13 +80,13 @@ link a:hover{
     max-width: 800px;
     font-size: 3.5rem;
     line-height: 4rem;
-    color: var(--other-color);
+    color: var(--main-color);
     padding-left: 1.4rem;
 }
 .header-container p{
     margin-bottom: 2rem;
     max-width: 600px;
-    color: var(--other-color);
+    color: var(--main2-color);
     font-size: 1.2rem;
     padding-left: 1.4rem;
 }
